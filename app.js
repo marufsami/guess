@@ -87,4 +87,4 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
-alert('Hi Diba 😍 🥰');
+alert('Hi raiyan bolda');
